@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper."
+title: "Do Pruning and Quantization Compose? Order and Interaction in Post-Training Compression of Language Models"
+type: software
+license: MIT
+repository-code: "https://github.com/martin-cousseau/pruning-quantization-compose"
+authors:
+  - family-names: Yaacoub
+    given-names: Antoun
+  - family-names: Cousseau
+    given-names: Martin
+    orcid: "https://orcid.org/0009-0000-5228-3565"
+  - family-names: Laborde
+    given-names: Stanislas
+preferred-citation:
+  type: conference-paper
+  title: "Do Pruning and Quantization Compose? Order and Interaction in Post-Training Compression of Language Models"
+  authors:
+    - family-names: Yaacoub
+      given-names: Antoun
+    - family-names: Cousseau
+      given-names: Martin
+    - family-names: Laborde
+      given-names: Stanislas
+  collection-title: "European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)"
+  year: 2027
+  notes: "Submitted"
